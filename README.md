@@ -14,7 +14,7 @@ Running the App
     bundle install
   </pre></code>
 2. Run the server
-    <code><pre>padrino start</pre></code>
+    <code><pre>padrino start</pre></code>teln
 3. [stop! pomodoro time!](http://localhost:3000)
 
 Running the Specs

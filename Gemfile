@@ -9,7 +9,7 @@ gem 'bson_ext'
 gem 'mongoid', '~> 2.4.4'
 
 group :development, :test do
-  gem 'ruby-debug19'
+  gem 'byebug'
   gem 'fabrication', '~> 1.3.1'
   gem 'zippy'
   gem 'rubyzip', '~> 0.9.9'
@@ -26,3 +26,4 @@ end
 gem 'tilt', '~> 1.3.7'
 gem 'padrino', '= 0.10.5'
 gem 'padrino-cookies', '~> 0.1.0'
+gem 'slack-post'
